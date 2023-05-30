@@ -1,0 +1,13 @@
+#navbar {
+  background-color:powderblue;
+  border-style:solid;
+  border-color:blue;
+  position: sticky;
+  top: 0px; 
+}
+.stats{
+  color:white
+}
+.active{
+  background-color: lightcoral;
+}

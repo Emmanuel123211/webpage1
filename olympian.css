@@ -1,0 +1,19 @@
+<style>
+        table, p {
+          color:white;
+        }
+
+        h1{
+          font-size: 10vw;
+          color: white;
+
+        h2{
+          color:chocolate
+        }
+
+        h1, h2, h3{
+          text-transform: uppercase;
+        }
+
+
+</style>
